@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 512 512" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<rect x="8" y="104" width="496" height="400" fill="#fff"/>
+<rect x="40" y="136" width="432" height="336" fill="#4FBF9F"/>
+<rect x="8" y="8" width="496" height="96" fill="#fff"/>
+<g fill="#193651">
+	<circle cx="64" cy="56" r="13.6"/>
+	<circle cx="115.2" cy="56" r="13.6"/>
+	<circle cx="167.2" cy="56" r="13.6"/>
+</g>
+<g fill="#fff">
+	<rect x="312" y="228" width="110.4" height="86.4"/>
+	<rect x="72" y="353.6" width="368.8" height="73.6"/>
+</g>
+<g fill="#193651">
+	<rect x="104" y="383.2" width="16" height="16"/>
+	<rect x="149.6" y="383.2" width="16" height="16"/>
+	<rect x="195.2" y="383.2" width="16" height="16"/>
+	<rect x="240.8" y="383.2" width="16" height="16"/>
+	<rect x="286.4" y="383.2" width="16" height="16"/>
+	<path d="M0,0v512h512V0H0z M496,496H16V112h480V496z M16,96V16h480v80H16z"/>
+	<path d="m428.8 222.4h-15.2v-17.6c0-25.6-20.8-46.4-46.4-46.4s-46.4 20.8-46.4 46.4v17.6h-15.2v97.6h122.4v-97.6h0.8zm-96-17.6c0-19.2 15.2-34.4 34.4-34.4s34.4 15.2 34.4 34.4v17.6h-68.8v-17.6zm84 103.2h-98.4v-74.4h98.4v74.4z"/>
+	<path d="m362.4 275.2v15.2h10.4v-15.2c4-2.4 7.2-6.4 7.2-11.2 0-7.2-5.6-12.8-12.8-12.8s-12.8 5.6-12.8 12.8c0 4.8 3.2 9.6 8 11.2z"/>
+</g>
+<g fill="#fff">
+	<path d="m127.2 271.2c-30.4 0-55.2 24.8-55.2 56h110.4c0-31.2-24.8-56-55.2-56z"/>
+	<circle cx="127.2" cy="226.4" r="30.4"/>
+</g>
+</svg>

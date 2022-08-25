@@ -1,0 +1,33 @@
+@import url("font-classes/font-classes.css");
+.container{
+    width: 1200px;
+    margin: 0 auto ;
+}
+.bg_White{
+    background: white;
+}
+.dis_Inblk{display: inline-block}
+.dis_None{display: none;}
+.shdowBox{
+    box-shadow: 0px 5px 10px 0px rgba(0,64,128,0.05);
+}
+.w100{width: 100%}
+.h100{height: 100%}
+.posrel{
+    position: relative;
+    top: 5px;
+}
+.posrelAside{
+    position: relative;
+
+}
+.posAb{position: absolute;}
+.posfix{position: fixed;}
+.fl_Left{float: left;}
+.fl_Right{float: right}
+.textCenter {
+    text-align: center;
+}
+.boxSizingBB{
+    box-sizing: border-box;
+}
